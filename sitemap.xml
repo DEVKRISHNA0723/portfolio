@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourusername.github.io/</loc>
+    <loc>https://devkrishna0723.github.io/portfolio/</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://github.com/DEVKRISHNA0723/</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/DEVKRISHNA0723/</loc>
+    <priority>0.8</priority>
   </url>
 </urlset>
